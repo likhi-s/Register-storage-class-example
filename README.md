@@ -1,0 +1,1 @@
+# Register-storage-class-example
